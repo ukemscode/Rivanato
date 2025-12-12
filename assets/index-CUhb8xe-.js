@@ -83,7 +83,7 @@ Error generating stack: `+e.message+`
            max-sm:h-[100px]\r
            max-sm:top-36\r
           max-xl:-left-100 \r
-          -left-125 z-0 top-[10px]`}),s.jsx("img",{src:Su,alt:"",className:`absolute hidden max-sm:block max-sm:-left-28 \r
+          -left-125 z-0 top-[10px]`}),s.jsx("img",{src:Su,alt:"",className:`absolute hidden max-sm:block max-sm:-left-30 \r
            max-sm:w-[300px]\r
           max-sm:top-84 rotate-270 z-0 self-center -left-[680px] -bottom-20 `}),s.jsxs("div",{className:"z-50 relative",children:[s.jsx("h4",{className:"text-[24px] font-normal  font-[Unbounded_Variable]",children:"Unauthorized Transaction Disputes"}),s.jsx("h5",{className:"text-[16px] max-sm:text-[14px]  max-w-[530px] mr-[115px] max-xl:mr-0 max-sm:mr-0   font-[Montserrat_Variable]",children:"If your card or bank account was used without approval, we help reverse or recover the funds."})]})]})]}),s.jsxs("div",{className:"h-[407px] flex px-[26px]  max-lg:flex-wrap  items-center justify-center mt-[26px] relative overflow-hidden",children:[s.jsx("div",{className:`w-[500px] h-[400px] blur-[170px]\r
          -top-40 absolute z-0 \r
