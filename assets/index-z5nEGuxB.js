@@ -71,7 +71,7 @@ Error generating stack: `+e.message+`
            -right-72 z-0 top-[10px]`}),s.jsx("img",{src:Su,alt:"",className:`absolute rotate-90 z-0 self-center \r
           max-sm:w-[300px]\r
           -right-[450px] max-sm:-right-30  -bottom-20 `}),s.jsxs("div",{children:[s.jsx("h4",{className:"  text-[24px] z-50 relative font-normal  font-[Unbounded_Variable]",children:"Investment Fraud Recovery"}),s.jsx("h5",{className:"   z-50   relative text-[16px]  max-sm:text-[14px] max-w-[530px] mr-[115px] max-xl:mr-0 max-sm:mr-0 font-[Montserrat_Variable]",children:"We track and dispute losses from unregulated brokers, Ponzi schemes, and fraudulent investment platforms."})]})]}),s.jsxs("div",{className:"relative self-end ",children:[s.jsx("img",{src:H1,alt:"",className:" z-10 absolute w-[200px] -left-6 max-xl:left-6 max-xl:bottom-[100px]    max-sm:w-[140px]   max-sm:left-2 max-sm:-top-[100px] md:-top-[150px]  "}),s.jsx("img",{src:Hm,alt:"",className:"bottom-0 z-10 -left-52 absolute max-sm:w-[120px]   max-sm:-left-16 max-xl:-left-26  max-xl:w-[200px] "}),s.jsx("img",{src:Um,alt:"",className:" max-lg:flex-wrap max-xl:w-[300px] z-20 max-xl:-right-36   max-sm:w-[170px]  bottom max-sm:-right-22 -right-20 relative w-[447px]"})]})]}),s.jsxs("div",{className:"h-[407px] px-[26px] flex overflow-hidden  max-lg:flex-wrap-reverse items-center justify-center mt-[26px] relative bgx-amber-900 ",children:[s.jsx("img",{src:Rm,alt:"",className:" relative -bottom-12  max-xl:w-[500px] z-50 self-end  "}),s.jsxs("div",{className:" z-10 relative",children:[s.jsx("div",{className:`w-[500px] rotate-270 self-center \r
-           max-sm:left-4 \r
+           max-sm:-left-4 \r
           max-sm:top-[80px] \r
           max-sm:blur-[60px] \r
           max-sm:h-[200px] \r
@@ -83,7 +83,7 @@ Error generating stack: `+e.message+`
            max-sm:h-[100px]\r
            max-sm:top-36\r
           max-xl:-left-100 \r
-          -left-125 z-0 top-[10px]`}),s.jsx("img",{src:Su,alt:"",className:`absolute hidden max-sm:block max-sm:-left-30 \r
+          -left-125 z-0 top-[10px]`}),s.jsx("img",{src:Su,alt:"",className:`absolute hidden max-sm:block max-sm:-left-34 \r
            max-sm:w-[300px]\r
           max-sm:top-60 rotate-270 z-0 self-center -left-[680px] -bottom-20 `}),s.jsxs("div",{className:"z-50 relative",children:[s.jsx("h4",{className:"text-[24px] font-normal  font-[Unbounded_Variable]",children:"Unauthorized Transaction Disputes"}),s.jsx("h5",{className:"text-[16px] max-sm:text-[14px]  max-w-[530px] mr-[115px] max-xl:mr-0 max-sm:mr-0   font-[Montserrat_Variable]",children:"If your card or bank account was used without approval, we help reverse or recover the funds."})]})]})]}),s.jsxs("div",{className:"h-[407px] flex px-[26px]  max-lg:flex-wrap  items-center justify-center mt-[26px] relative overflow-hidden",children:[s.jsx("div",{className:`w-[500px] h-[400px] blur-[170px]\r
          -top-40 absolute z-0 \r
